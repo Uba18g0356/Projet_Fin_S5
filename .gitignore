@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+# Fichiers générés STM32CubeIDE (conserver .ioc, Core, Drivers et configurations)
+**/Debug/
+**/Release/
+**/.metadata/
